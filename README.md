@@ -82,8 +82,8 @@ doctor's office. it s a simple academic Crud app made with poo,pdo and mvc model
 ![Capture d’écran 2022-05-02 181324](https://user-images.githubusercontent.com/81488144/166294066-c997ce43-d24b-4c38-ac06-369712589dd6.png)
 
 
-                                         This is an Academic Project looking to be a big one
-                                     If there is any gramma mistakes do not hesitate to correct for me 
-                                                           Thanks For Reading 
+                            This is an Academic Project looking to be a big one
+                       If there is any gramma mistakes do not hesitate to correct for me 
+                                            Thanks For Reading 
                                                       
                                                                          
