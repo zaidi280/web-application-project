@@ -24,6 +24,7 @@ doctor's office. it s a simple academic Crud app made with poo,pdo and mvc model
     create two appointments for the same patient in the same day. If it is the case, the 
     application should display the following notification: a patient may not have two 
     appointments per day
+  - the doctor will get  all the appointment adedd on the current date only and he will add a consultation for each one 
   - read the contribution for more details 
 - Update
   -a button will redirect u to the Update UI so all u have to do is to fill the form and click submit and it will redirect u to the admin page where u will
@@ -35,8 +36,33 @@ doctor's office. it s a simple academic Crud app made with poo,pdo and mvc model
   - An admin may not delete an appointment whose date is inferior to the current day.
 - Search
   - u can type the username and click search it will redirect u to a page where u will find all the patients with the name that u typed in a table
+- Add Consultation
+  - -a button will redirect u to the Consultation UI so all u have to do is to fill the form and click submit and it will redirect u to a page where u will
+      find the Consultation on the table (it s a session)
 - disconnect
   -  destroy the session and comeback to the authentifiaction UI
+## Future Features
+- a dashboard for admin and doctor
+- more controls on the Crud bottons
+-  About the Consultation : Once the introduced data is saved, the 
+   application should redirect the user to the appointment interface. Attended appointments, i.e., 
+   which have already assigned to a consultation, should be displayed in green color.
+- adding a registre UI where the patient can make an account and add an appointment where it will be accepted or denied on admin UI 
+- adding an index page where u can find some advice on how we protecte ourself from different Diseases this page will be redirected to the patient who have 
+   an account 
+- u can post a question to the doctor and he can answer u 
+- a Calender of when the office is open and the doctor is available will be displayed to the patient
+- the app will be available with french and english language 
+- improving the security of the app (the app made with Get method so it will be repliced with Post method)
+## Dependencies
+-100% php
+-poo
+-pdo
+## What's the app looks like 
+
+
+
+
 
 
 
