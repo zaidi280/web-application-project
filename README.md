@@ -55,15 +55,16 @@ doctor's office. it s a simple academic Crud app made with poo,pdo and mvc model
 - the app will be available with french and english language 
 - improving the security of the app (the app made with Get method so it will be repliced with Post method)
 ## Dependencies
--100% php
--poo
--pdo
+- 100% php
+- poo
+- pdo
 ## What's the app looks like 
 
+![Capture d’écran 2022-05-02 181242](https://user-images.githubusercontent.com/81488144/166294059-e15d867b-fe75-4fcc-9caf-a4b9c8ed6250.png)
 
+![Capture d’écran 2022-05-02 180451](https://user-images.githubusercontent.com/81488144/166294062-0b205122-eb3d-461c-a633-3fc04d94ded3.png)
 
-
-
+![Capture d’écran 2022-05-02 181324](https://user-images.githubusercontent.com/81488144/166294066-c997ce43-d24b-4c38-ac06-369712589dd6.png)
 
 
 
