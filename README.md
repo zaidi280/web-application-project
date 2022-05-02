@@ -72,6 +72,7 @@ doctor's office. it s a simple academic Crud app made with poo,pdo and mvc model
 6. the app is designed with bootstrap
 7. u can suggest something new on the app 
 8. if u write any code make sure to put comments so we can understand u 
+9. fix the birthdate only 18+ who can make an account and fill an appointment
 
 ## What's the app looks like 
 
